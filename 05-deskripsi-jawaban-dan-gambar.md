@@ -1,0 +1,2 @@
+# 05-deskripsi-jawaban-dan-gambar
+Untuk mengamankan server kita perlu menerapkan teknik firewall untuk memfilter traffic INPUT,FORWARD,OUTPUT terhadap service yang terdapat pada server tersebut. Dengan teknik firewall kita bisa memfillter port yang mana bisa digunakan (open) atau ditutup (close) sehingga meminimalisirkan celah untuk akses terhadap server tersebut. Dan juga bisa menerapkan log monitoring untuk memantau ketia server terjadi serangan.
